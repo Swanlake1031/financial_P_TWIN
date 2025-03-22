@@ -17,3 +17,10 @@ if __name__ == "__main__":
         goal_amount=10000
     )
     print(f"你预计需要 {months} 个月达成你的目标 🎯")
+
+    #cd ~/Downloads/financial_P_TWIN
+
+
+print("hello World")
+
+
